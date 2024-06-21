@@ -4,11 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e6a0d834-3798-4071-baf7-aa59759ff5a8" name="Changes" comment="class Curso">
-      <change afterPath="$PROJECT_DIR$/src/br/com/dio/desafio/dominio/Curso.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/dio/desafio/dominio/Mentoria.java" afterDir="false" />
+    <list default="true" id="e6a0d834-3798-4071-baf7-aa59759ff5a8" name="Changes" comment="git ignore config">
+      <change afterPath="$PROJECT_DIR$/src/br/com/dio/desafio/dominio/Bootcamp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/dio/desafio/dominio/Conteudo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/dio/desafio/dominio/Dev.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/dio/desafio/dominio/Curso.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/dio/desafio/dominio/Curso.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/dio/desafio/dominio/Mentoria.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/dio/desafio/dominio/Mentoria.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -86,7 +89,8 @@
       <option name="presentableId" value="Default" />
       <updated>1718757540544</updated>
       <workItem from="1718757541547" duration="1590000" />
-      <workItem from="1718829519304" duration="733000" />
+      <workItem from="1718829519304" duration="2455000" />
+      <workItem from="1718933245273" duration="2388000" />
     </task>
     <task id="LOCAL-00001" summary="First commit">
       <option name="closed" value="true" />
@@ -112,7 +116,47 @@
       <option name="project" value="LOCAL" />
       <updated>1718830234354</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="class Curso">
+      <option name="closed" value="true" />
+      <created>1718830274754</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1718830274754</updated>
+    </task>
+    <task id="LOCAL-00005" summary="class Mentoria">
+      <option name="closed" value="true" />
+      <created>1718830296038</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1718830296038</updated>
+    </task>
+    <task id="LOCAL-00006" summary="teste na Main">
+      <option name="closed" value="true" />
+      <created>1718830327178</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1718830327178</updated>
+    </task>
+    <task id="LOCAL-00007" summary="idea">
+      <option name="closed" value="true" />
+      <created>1718830337992</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1718830337992</updated>
+    </task>
+    <task id="LOCAL-00008" summary="git ignore config">
+      <option name="closed" value="true" />
+      <created>1718830537374</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1718830537374</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -121,8 +165,11 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="First commit" />
     <MESSAGE value="Add README" />
-    <MESSAGE value="idea" />
     <MESSAGE value="class Curso" />
-    <option name="LAST_COMMIT_MESSAGE" value="class Curso" />
+    <MESSAGE value="class Mentoria" />
+    <MESSAGE value="teste na Main" />
+    <MESSAGE value="idea" />
+    <MESSAGE value="git ignore config" />
+    <option name="LAST_COMMIT_MESSAGE" value="git ignore config" />
   </component>
 </project>
